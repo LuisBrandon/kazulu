@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Antonio Acuña, web developer</h1>
+<img src="https://raw.githubusercontent.com/kazulu/kazulu/master/Antonio%20Acu%C3%B1a%20Prieto.png">
 
 <p align="center">💪 Currently searching for employment!</p>
 
